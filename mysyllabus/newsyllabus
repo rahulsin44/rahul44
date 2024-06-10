@@ -1,0 +1,105 @@
+1.0	Linux Basics and Command Line
+1.1	Introduction to Linux
+	Linux History and Philosophy
+	Origins of Linux, GNU/Linux
+	Open Source Movement
+	Popular Linux Distributions
+	Overview of Ubuntu, Fedora, CentOS
+	Understanding Desktop Environments
+	GNOME, KDE, XFCE
+1.2	Command Line Basics
+	Terminal Fundamentals
+	Accessing the Terminal
+	Basic Navigation Commands
+	Directory Structures
+	Home, Root, Bin, and Other Directories
+	Absolute vs Relative Paths
+	File Management Commands
+	Creating, Listing, Deleting Files and Directories
+1.3	Working with Files and Text Editors
+	File Operations
+	Copying, Moving, Removing Files
+	Searching Within Files with grep
+	Introduction to Nano and Vim
+	Basic Operations: Opening, Editing, Saving Files
+	Vim Modes and Navigation
+1.4	Basic File System Structure and Permissions
+	Exploring Linux File System Hierarchy
+	Standard Directories and Their Roles
+	File Permissions and Ownership
+	Reading and Modifying File Permissions
+	Changing File Ownership
+1.5	Remote System Access
+	Accessing remote system using SSH and Telnet access
+	Copy Files from/to remote System
+2.0	Source Code Management with Git
+2.1	Version Control with Git
+	Git Introduction
+	Why Version Control?
+	Git Installation and Configuration
+	Git Basics
+	Initializing a Repository (git init)
+	Staging and Committing Changes (git add, git commit)
+2.2	Git Operations and Workflow
+	Managing Changes
+	Viewing Commit History (git log)
+	Undoing Changes (git revert, git reset)
+	Branching in Git
+	Creating and Switching Branches (git branch, git checkout)
+	Basic Merging Techniques
+2.3	Branching and Merging
+	Advanced Branching Strategies
+	Feature Branching, Hotfix Branches
+	Complex Merging Techniques
+	Resolving Complex Merge Conflicts
+	Rebase vs Merge
+2.4	Collaborative Development with Git
+	Collaborative Workflows in Git
+	Forking and Cloning Repositories
+	Managing Collaborative Changes
+	Working with Branches Remotely
+	Pushing and Pulling Branches
+	Remote Branch Management
+2.5	Code Review and Collaboration Practices
+	Utilizing Pull Requests
+	Creating and Managing Pull Requests
+	Code Review Process
+3.0	Shell Scripting with Bash
+3.1	Bash Scripting Basics
+	Shell Scripting Basics
+	Creating and Running Shell Scripts
+	Script File Structure
+	Making Scripts Executable
+	Basic Shell Script Examples
+	Variables and Data Types
+	Environment Variables
+	Custom Variables
+	Data Types and Declaration
+	Working with Strings and Numbers
+3.2	Control Structures and Functions
+	Control Structures
+	Conditional Statements (if, then, else, elif)
+	Loop Structures (for, while, until)
+	Case Statements
+	Functions in Bash
+	Defining and Calling Functions
+	Function Parameters and Return Values
+	Scope of Variables in Functions
+3.3	Advanced Scripting Techniques
+	Advanced Bash Features
+	Arrays and Associative Arrays
+	Reading and Writing Files
+	Redirecting Input and Output
+	Using Pipes and Filters
+	Error Handling
+	Exit Status of Commands
+	Trap Statements for Error Detection
+	Debugging Bash Scripts
+3.4	Text Processing Tools
+	Essential Text Processing Commands
+	grep, sed, awk
+	cut, sort, uniq, tr
+	Regular Expressions Basics
+	Using Text Processing Tools in Scripts
+	Integrating grep, sed, awk in Shell Scripts
+	Practical Examples of Text Processing
