@@ -1,0 +1,7 @@
+[2024-06-10 10:15:23] INFO: Application started
+[2024-06-10 10:16:45] DEBUG: Processing data
+[2024-06-10 10:17:52] ERROR: Database connection failed
+[2024-06-10 10:19:03] INFO: Request received from client
+[2024-06-10 10:20:11] ERROR: Invalid input parameters
+[2024-06-10 10:22:30] WARNING: Disk space low
+[2024-06-10 10:25:18] ERROR: Server crashed unexpectedly
