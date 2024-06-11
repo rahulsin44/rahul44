@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Directory to monitor
-monitor_dir="/path/to/monitor"
+monitor_dir="/mnt/c/Users/'Rahul shingh'/Desktop/NGA_training/"
 
 # Directory to store backups
-backup_dir="/path/to/backup"
+backup_dir="/mnt/c/Users/'Rahul shingh'/Desktop/NGA_training/backup/"
 
 # Start an infinite loop to continuously monitor the directory
 while true; do
